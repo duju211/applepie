@@ -14,7 +14,7 @@ You can install the released version of applepie with:
 
 ``` r
 # install.packages("remotes")
-remotes::install_github("maelle/applepie")
+remotes::install_github("duju211/applepie")
 ```
 
 ## Example
